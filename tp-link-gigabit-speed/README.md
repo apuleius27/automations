@@ -12,7 +12,7 @@ It is best to schedule the script to run automatically (as described below), how
 
 ## How It Works
 
-The script uses the selenium library to automate the process of toggling the modem's Access Control setting on and off, uncapping the download speed neither without rebooting the modem nor causing connection issues.
+The script uses the `selenium` library to automate the process of toggling the modem's Access Control setting on and off, uncapping the download speed neither without rebooting the modem nor causing connection issues.
 
 ## Prerequisites
 
