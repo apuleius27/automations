@@ -1,9 +1,5 @@
 # Delay quit time when pressing `cmd+Q` on MacOS
 
-https://apple.stackexchange.com/questions/349075/hold-cmd-q-to-quit-as-a-system-wide-action
-
-`.hammerspoon/init.lua`
-
 ## Description
 
 This script modifies the behavior of the `cmd+Q` keyboard shortcut on MacOS to delay the quit action. By introducing a configurable delay, it helps prevent accidental application closures.
