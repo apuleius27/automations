@@ -4,7 +4,7 @@
 
 This script allows the TP-Link VR1210v V1 modem to reach 1 Gbit/s download speed, addressing an issue present for many users.
 
-Due to unknown reasons (probably due to a firmware bug), if the modem is not rebooted every few hours (ca. 4) the download speed becomes capped at 250 Mbit/s, for each connected device.
+Due to unknown reasons (probably due to a firmware bug), if the modem is not rebooted every few hours (ca. 4h) the download speed becomes capped at 250 Mbit/s, for each connected device.
 
 The script implements a workaround that allows to "uncap" the speed without the need to reboot.
 
