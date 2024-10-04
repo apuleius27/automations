@@ -14,9 +14,9 @@ It is best to schedule the script to run automatically (as described below), how
 
 The script uses the `selenium` library to automate the process of toggling the modem's Access Control setting on and off, uncapping the download speed neither without rebooting the modem nor causing connection issues.
 
-## Prerequisites
-
 - The script relies on toggling and keeping Access Control on the "Off" value. Make sure you don't use that feature
+
+## Prerequisites
 
 - Ensure you have the necessary Python packages installed, mainly:
   
