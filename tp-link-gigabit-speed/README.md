@@ -127,7 +127,7 @@ which chromedriver
    crontab -e
    ```
    
-   Add a cron job to schedule the script (e.g., to run every 3 hours):
+ 4. **Add a cron job to schedule the script (e.g., to run every 3 hours):**
    
    ```bash
     0 */3 * * * /path/to/your/python /path/to/your/file/main_linux_macos.py # Run which python to get your python path
